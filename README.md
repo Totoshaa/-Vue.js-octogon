@@ -1,1 +1,1 @@
-# -Vue.js-octogon
+# Знакомство с Vue.js-octogon
